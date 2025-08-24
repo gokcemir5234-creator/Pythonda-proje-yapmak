@@ -1,0 +1,2 @@
+# Pythonda-proje-yapmak
+İşte
